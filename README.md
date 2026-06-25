@@ -169,10 +169,41 @@ Some of the insights generated include:
 
 ---
 
-## Highest-Paying Data Analyst Jobs
+# 📸 Project Screenshots
 
-![Highest-Paying Data Analyst Jobs](Screenshots/Highest_Paying_Data_Analyst_Jobs.png)
+## Top-Paying Skills
 
+![Top Paying Skills](Screenshots/Top_Paying_Skills.png)
+
+---
+
+## Most In-Demand Skills
+
+![Most In-Demand Skills](Screenshots/Most_In_Demand_Skills.png)
+
+---
+
+## Highest-Paying Companies
+
+![Highest-Paying Companies](Screenshots/Highest_Paying_Companies.png)
+
+---
+
+## Remote vs Non-Remote Salary Comparison
+
+![Remote vs Non-Remote Salary Comparison](Screenshots/Remote_vs_NonRemote_Salary.png)
+
+---
+
+## Top-Paying Company by Country
+
+![Top-Paying Company by Country](Screenshots/Top_Paying_Company_By_Country.png)
+
+---
+
+## Top Skills for Data Analysts
+
+![Top Skills for Data Analysts](Screenshots/Top_Data_Analyst_Skills.png)
 
 ---
 
