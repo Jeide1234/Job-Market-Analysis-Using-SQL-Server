@@ -154,5 +154,5 @@ This project demonstrates how SQL can be used to solve real-world business probl
 
 **Jadesola Ogunkayode**
 
-* LinkedIn: linkedin.com/in/jadesola-ogunkayode-data-analyst
+* LinkedIn: (linkedin.com/in/jadesola-ogunkayode-data-analyst)
 * GitHub: https://github.com/Jeide1234
