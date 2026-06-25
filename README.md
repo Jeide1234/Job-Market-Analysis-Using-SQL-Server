@@ -1,5 +1,13 @@
 # 📊 Job Market Analysis Using SQL Server
 
+## 🛠️ Tech Stack
+
+* Microsoft SQL Server
+* SQL Server Management Studio (SSMS)
+* SQL
+* Relational Database Management
+* Data Analysis
+
 ## 📌 Project Overview
 
 This project analyses a real-world job market dataset containing **787,686 job postings** using **Microsoft SQL Server** to uncover hiring trends, salary patterns, skill demand, and remote work insights.
