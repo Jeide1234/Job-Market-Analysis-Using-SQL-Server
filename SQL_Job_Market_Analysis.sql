@@ -1,3 +1,29 @@
+# /*
+
+Project: Job Market Analysis Using SQL Server
+Author: Jadesola Ogunkayode
+Tools: Microsoft SQL Server (SSMS)
+
+Description:
+This project analyses nearly 788,000 job postings to
+identify hiring trends, salary patterns, in-demand skills,
+remote work trends, and company insights using SQL.
+
+SQL Concepts:
+
+* SELECT
+* WHERE
+* GROUP BY
+* HAVING
+* JOINs
+* CASE
+* Subqueries
+* CTEs
+* Window Functions
+* EXISTS / NOT EXISTS
+  ==========================================================
+  */
+
 --How many job postings are in the dataset?
 
 SELECT COUNT (job_id) AS JobPostingsCount
